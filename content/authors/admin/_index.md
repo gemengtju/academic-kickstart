@@ -21,6 +21,7 @@ organizations:
 bio: My research interests include speech, mobile computing and programmable matter.
 
 interests:
+- Speech Processing
 - Speech Enhancement
 - Speech Separation
 - Speech Recognition
@@ -29,13 +30,13 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Tianjin University
-    year: 2012
+    year: 2017 - Present
   - course: MEng in Software Engineering
     institution: Tianjin University
-    year: 2009
+    year: 2015 - 2017
   - course: BSc in Software Engineering
     institution: Tianjin Polytechnic University
-    year: 2008
+    year: 2011 - 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
