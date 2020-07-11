@@ -43,7 +43,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "Machine Learning Engineer"
-  company = "DiDi"
+  company = "Didi Chuxing"
   company_url = ""
   location = "Beijing, China"
   date_start = "2018-09-01"
