@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description = """
-  Research on multi-talker speech separation and recognition (Supervisor: Chng Eng Siong)
+  Research on multi-talker speech separation and recognition
   """
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-04-01"
   description = """
-  Research on multi-talker speech separation and recognition (Supervisor: Chng Eng Siong)
+  Research on multi-talker speech separation and recognition
   """
   
   [[experience]]
