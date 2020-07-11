@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student of Computer Science
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Tianjin University
+- name: Tianjin Key Laboratory of Cognitive Computing and Application
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
