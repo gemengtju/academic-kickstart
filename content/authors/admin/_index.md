@@ -14,7 +14,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Tianjin Key Laboratory of Cognitive Computing and Application
+- name: College of Intelligence and Computing, Tianjin University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
