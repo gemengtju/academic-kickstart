@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description = """
-  * Supervisor: Haizhou Li
-  * Research on multi-talker speech separation and recognition
+  Supervisor: Haizhou Li
+  Research on multi-talker speech separation and recognition
   """
 
 [[experience]]
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = "2020-04-01"
   description = """
-  * Supervisor: Chng Eng Siong
-  * Research on multi-talker speech separation and recognition
+  Supervisor: Chng Eng Siong
+  Research on multi-talker speech separation and recognition
   """
   
   [[experience]]
@@ -49,8 +49,7 @@ date_format = "Jan 2006"
   date_start = "2018-09-01"
   date_end = "2019-06-01"
   description = """
-  * Research on Speech Separation: Noise Reduction and separation for speech recordings in car, to help customer service staff better understand target voice.
-  * Research on Drunk Passenger Detection: Reduce conflicts between drivers and passengers due to drunkenness by detecting passenger's state using speech recordings.
+  Research on Speech Separation and Drunk Passenger Detection
   """
 
 +++
