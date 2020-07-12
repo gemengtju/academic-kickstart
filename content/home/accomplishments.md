@@ -21,11 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "**Meng Ge**, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li"
   title = "SpEx+: A Complete Time Domain Speaker Extraction Network"
-  url = ""
-  certificate_url = "{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}"
+  url = "{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}"
   date_start = "2020-05-10"
   date_end = ""
-  description = "{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}"
+  description = "{"
 
 [[item]]
   organization = "edX"
