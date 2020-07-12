@@ -63,30 +63,6 @@ projects:
 slides: example
 ---
 
-slides:
-  title: speaker extraction via deep learning
-  authors:
-  - admin
-  - Robert Ford
-  date: "2013-07-01T00:00:00Z"
-  
-{{% alert note %}}
-Target Speaker Extraction for Multi-Talker Speaker Verification
-Wei Rao, Chenglin Xu, Eng Siong Chng, Haizhou Li. in Interspeech 2019. [PDF], [CODE]
-{{% /alert %}}
-
-{{% alert note %}}
-Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation [PDF], [CODE]
-{{% /alert %}}
-
-{{% alert note %}}
-Environment-dependent Attention-driven Recurrent Convolutional Neural Network for Robust Speech Enhancement [PDF], [CODE]
-{{% /alert %}}
-
-{{% alert note %}}
-A Fast Convolutional Self-attention Based Speech Dereverberation Method for Robust Speech Recognition [PDF], [CODE]
-{{% /alert %}}
-
 {{% alert note %}}
 Distant-talking Speech Recognition Based on Multi-objective Learning using Phase and Magnitude-based Feature [PDF], [CODE]
 {{% /alert %}}
