@@ -1,5 +1,5 @@
 ---
-title: "An example publication2 paper"
+title: "An example publication23 paper"
 authors:
 - admin
 - Robert Ford
@@ -67,6 +67,25 @@ slides: example
 {{% alert note %}}
 Target Speaker Extraction for Multi-Talker Speaker Verification
 Wei Rao, Chenglin Xu, Eng Siong Chng, Haizhou Li. in Interspeech 2019. [PDF], [CODE]
+{{/*
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fa fa-play" %}}Get Grav with icon{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fa fa-share" icon-position="right" %}}Get Grav with icon right{{% /button %}}
+
+*/}}
+<a {{ with .Get "href"}} href="{{.}}" target="_blank" {{ end }} class="button">
+  {{ $icon := .Get "icon" }}
+  {{ $iconposition := .Get "icon-position" }}
+  {{ if ($icon) }}
+    {{ if or (not ($iconposition)) (eq $iconposition "left") }}
+  <i class="{{$icon}}"></i>
+    {{ end }}
+  {{ end }}
+  {{ .Inner }}
+  {{ if and ($icon) (eq $iconposition "right")}}
+  <i class="{{$icon}}"></i>
+  {{ end }}
+</a>
 {{% /alert %}}
 
 {{% alert note %}}
