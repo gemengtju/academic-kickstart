@@ -24,7 +24,9 @@ date_format = "Jan 2006"
   url = "{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}"
   date_start = "2020-05-10"
   date_end = ""
-  description = "{"
+  description = ""
+  
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
 
 [[item]]
   organization = "edX"
