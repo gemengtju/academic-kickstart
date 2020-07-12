@@ -75,4 +75,4 @@ user_groups:
 
 I am a PhD student in College of Intelligence and Computing in Tianjin University, supervised by Prof. Longbiao Wang and Prof. Jianwu Dang. My research topic is Speech Separation Based on Deep Learning in Open Complex Environment.
 
-Prior to that, I received my Master’s Degree from Tianjin University under the supervision by Prof. Di Jin and Prof. Liang Yang in 2017.
+Prior to that, I received my Master’s Degree from Tianjin University under the supervision of Prof. Di Jin and Prof. Liang Yang in 2017.
