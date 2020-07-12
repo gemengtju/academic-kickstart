@@ -19,8 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Meng Ge, Jiang Yu"
-  organization_url = "https://www.edx.org"
+  organization = "**Meng Ge**, Jiang Yu"
   title = "Neural Networks and Deep Learning"
   url = ""
   certificate_url = "https://www.coursera.org"
