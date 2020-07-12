@@ -62,6 +62,8 @@ projects:
 slides: example
 ---
 
+"An example preprint / working paper"
+
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
