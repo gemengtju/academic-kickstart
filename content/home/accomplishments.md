@@ -22,10 +22,10 @@ date_format = "Jan 2006"
   organization = "**Meng Ge**, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li"
   title = "SpEx+: A Complete Time Domain Speaker Extraction Network"
   url = ""
-  certificate_url = "https://www.coursera.org"
+  certificate_url = "{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}"
   date_start = "2020-05-10"
   date_end = ""
-  description = "[[paper]](https://arxiv.org/abs/2005.04686)"
+  description = "{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}"
 
 [[item]]
   organization = "edX"
