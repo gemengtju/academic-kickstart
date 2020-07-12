@@ -67,29 +67,26 @@ slides: example
 {{% alert note %}}
 Target Speaker Extraction for Multi-Talker Speaker Verification
 Wei Rao, Chenglin Xu, Eng Siong Chng, Haizhou Li. in Interspeech 2019. [PDF], [CODE]
-{{/*
-{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
-{{% button href="https://getgrav.org/" icon="fa fa-play" %}}Get Grav with icon{{% /button %}}
-{{% button href="https://getgrav.org/" icon="fa fa-share" icon-position="right" %}}Get Grav with icon right{{% /button %}}
-
-*/}}
-<a {{ with .Get "href"}} href="{{.}}" target="_blank" {{ end }} class="button">
-  {{ $icon := .Get "icon" }}
-  {{ $iconposition := .Get "icon-position" }}
-  {{ if ($icon) }}
-    {{ if or (not ($iconposition)) (eq $iconposition "left") }}
-  <i class="{{$icon}}"></i>
-    {{ end }}
-  {{ end }}
-  {{ .Inner }}
-  {{ if and ($icon) (eq $iconposition "right")}}
-  <i class="{{$icon}}"></i>
-  {{ end }}
-</a>
 {{% /alert %}}
 
 {{% alert note %}}
-Click the *Slides* butto234n above to demo Academic's Markdown slides feature.
+Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation [PDF], [CODE]
+{{% /alert %}}
+
+{{% alert note %}}
+Environment-dependent Attention-driven Recurrent Convolutional Neural Network for Robust Speech Enhancement [PDF], [CODE]
+{{% /alert %}}
+
+{{% alert note %}}
+A Fast Convolutional Self-attention Based Speech Dereverberation Method for Robust Speech Recognition [PDF], [CODE]
+{{% /alert %}}
+
+{{% alert note %}}
+Distant-talking Speech Recognition Based on Multi-objective Learning using Phase and Magnitude-based Feature [PDF], [CODE]
+{{% /alert %}}
+
+{{% alert note %}}
+Pitch Synchronized Relative Phase with Peak Error Detection For Noise-robust Speaker Recognition [PDF], [CODE]
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
