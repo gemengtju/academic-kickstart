@@ -63,7 +63,13 @@ projects:
 slides: example
 ---
 
-
+slides:
+  title: speaker extraction via deep learning
+  authors:
+  - admin
+  - Robert Ford
+  date: "2013-07-01T00:00:00Z"
+  
 {{% alert note %}}
 Target Speaker Extraction for Multi-Talker Speaker Verification
 Wei Rao, Chenglin Xu, Eng Siong Chng, Haizhou Li. in Interspeech 2019. [PDF], [CODE]
