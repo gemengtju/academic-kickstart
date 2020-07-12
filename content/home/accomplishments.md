@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "**Meng Ge**, Jiang Yu"
-  title = "Neural Networks and Deep Learning"
+  organization = "**Meng Ge**, Chenglin Xu, Longbiao Wang, Eng Siong Chng, Jianwu Dang, Haizhou Li"
+  title = "SpEx+: A Complete Time Domain Speaker Extraction Network"
   url = ""
   certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  date_start = "2020-05-10"
   date_end = ""
-  description = "[paper](https://www.coursera.org)"
+  description = "[[paper]](https://arxiv.org/abs/2005.04686)"
 
 [[item]]
   organization = "edX"
