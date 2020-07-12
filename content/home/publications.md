@@ -128,4 +128,8 @@ slides: example
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
+{{% button href="https://getgrav.org/" icon="fas fa-download" icon-position="right" %}}Get Grav with icon right{{% /button %}}
+
 S2345upplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
