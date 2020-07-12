@@ -63,6 +63,13 @@ projects:
 slides: example
 ---
 
+[I'm a link](https://www.google.com)
+[A post]({{< ref "/post/my-page-name/index.md" >}})
+[A publication]({{< ref "/publication/my-page-name/index.md" >}})
+[A project]({{< ref "/project/my-page-name/index.md" >}})
+[A relative link from one post to another post]({{< relref "../my-page-name/index.md" >}})
+[Scroll down to a page section with heading *Hi*](#hi)
+
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
