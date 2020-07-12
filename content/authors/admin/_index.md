@@ -25,6 +25,8 @@ interests:
 - Speech Enhancement
 - Speech Separation
 - Speech Recognition
+- Complex Network
+- Network Embedding
 
 education:
   courses:
