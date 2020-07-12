@@ -1,5 +1,5 @@
 ---
-title: "Publication"
+title: "Publications"
 authors:
 - admin
 - Robert Ford
