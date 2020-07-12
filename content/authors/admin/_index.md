@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include speech, mobile computing and programmable matter.
+bio: My research interests include speech enhancement, speech separation and speech recognition.
 
 interests:
 - Speech Processing
