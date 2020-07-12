@@ -1,5 +1,5 @@
 ---
-title: "An example publication paper"
+title: "An example publication2 paper"
 authors:
 - admin
 - Robert Ford
