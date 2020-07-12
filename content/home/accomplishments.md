@@ -20,6 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Meng Ge, Jiang Yu"
+  organization_url = "https://www.edx.org"
   title = "Neural Networks and Deep Learning"
   url = ""
   certificate_url = "https://www.coursera.org"
