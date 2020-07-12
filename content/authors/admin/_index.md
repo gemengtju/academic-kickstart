@@ -49,7 +49,7 @@ social:
   icon_pack: fas
   link: "mailto:gemeng@tju.edu.cn"  # For a direct email link, use "mailto:gemeng@tju.edu.cn".
 - icon: weibo
-  icon_pack: fab
+  icon_pack: fab fa-weibo
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
