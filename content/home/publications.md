@@ -70,3 +70,6 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+* Kundu, S., Sinitsyn, N., Backhaus, S., & Hiskens, I. (2011, August). [Modeling and Control of Thermostatically Controlled Loads.](https://www.pscc-central.org/uploads/tx_ethpublications/fp355.pdf) In _Power Systems Computation Conference (PSCC), 2011_ (pp. 1-7).
+* Turitsyn, K., Sulc, P., Backhaus, S., & Chertkov, M. (2011). [Options for control of reactive power by distributed photovoltaic generators.](https://ieeexplore.ieee.org/abstract/document/5768094/) _Proceedings of the IEEE_, 99(6), 1063-1073.
