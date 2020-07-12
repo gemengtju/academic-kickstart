@@ -47,8 +47,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:gemeng@tju.edu.cn"  # For a direct email link, use "mailto:gemeng@tju.edu.cn".
+- icon: weibo
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
