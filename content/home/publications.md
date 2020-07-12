@@ -69,9 +69,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% /alert %}}
 
 {{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
+Click the *Slides* butto234n above to demo Academic's Markdown slides feature.
 {{% /alert %}}
-
-{{% link-button-sc href="#" class="my-button--raised crazy-button" value="Click Me Real Good" %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
