@@ -81,4 +81,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
 {{% button href="https://getgrav.org/" icon="fas fa-download" icon-position="right" %}}Get Grav with icon right{{% /button %}}
 
-S2345upplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+S2345up444422222plementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
