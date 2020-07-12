@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in College of Intelligence and Computing in Tianjin University, China. I am supervised by Prof. Longbiao Wang and Prof. Jianwu Dang. I received my Master’s Degree from Tianjin University under the supervision by Prof. Di Jin and Prof. Liang Yang in 2017.
+I am a PhD student in College of Intelligence and Computing in Tianjin University, China. I am supervised by Prof. Longbiao Wang and Prof. Jianwu Dang. Prior to that, I received my Master’s Degree from Tianjin University under the supervision by Prof. Di Jin and Prof. Liang Yang in 2017.
