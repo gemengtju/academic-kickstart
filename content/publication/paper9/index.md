@@ -24,10 +24,10 @@ publication_types: ["2"]
 publication: "ISCSLP 2018"
 publication_short: ""
 
-abstract: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches. Unfortunately, SpEx is not fully a time-domain solution since it performs time-domain speech encoding for speaker extraction, while taking frequency-domain speaker embedding as the reference. The size of the analysis window for time-domain and the size for frequency-domain input are also different. Such mismatch has an adverse effect on the system performance. To eliminate such mismatch, we propose a complete time-domain speaker extraction solution, that is called SpEx+. Specifically, we tie the weights of two identical speech encoder networks, one for the encoder-extractor-decoder pipeline, another as part of the speaker encoder. Experiments show that the SpEx+ achieves 0.8dB and 2.1dB SDR improvement over the state-of-the-art SpEx baseline, under different and same gender conditions on WSJ0-2mix-extr database respectively.
+abstract: Due to the demand for performance improvement and the existence of prior information, semi-supervised community detection with pairwise constraints becomes a hot topic. Most existing methods have been successfully encoding the must-link constraints, but neglect the opposite ones, i.e., the cannot-link constraints, which can force the exclusion between nodes. In this paper, we are interested in understanding the role of cannot-link constraints and effectively encoding pairwise constraints. Towards these goals, we define an integral generative process jointly considering the network topology, must-link and cannot-link constraints. We propose to characterize this process as a Multi-variance Mixed Gaussian Gen- erative (MMGG) Model to address diverse degrees of confidences that exist in network topology and pairwise constraints and formulate it as a weighted nonnegative matrix factorization problem. The experiments on artificial and real-world networks not only illustrate the superiority of our proposed MMGG, but also, most importantly, reveal the roles of pairwise constraints. That is, though the must-link is more important than cannot-link when either of them is available, both must-link and cannot-link are equally important when both of them are available. To the best of our knowledge, this is the first work on discovering and exploring the importance of cannot-link constraints in semi-supervised community detection.
 
 # Summary. An optional shortened abstract.
-summary: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches.
+summary:
 
 tags:
 - Time Domain, 
@@ -38,16 +38,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://yangliang.github.io/pdf/plos.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

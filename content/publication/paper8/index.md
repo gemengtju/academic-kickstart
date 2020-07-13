@@ -23,10 +23,10 @@ publication_types: ["1"]
 publication: "ISCSLP 2018"
 publication_short: ""
 
-abstract: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches. Unfortunately, SpEx is not fully a time-domain solution since it performs time-domain speech encoding for speaker extraction, while taking frequency-domain speaker embedding as the reference. The size of the analysis window for time-domain and the size for frequency-domain input are also different. Such mismatch has an adverse effect on the system performance. To eliminate such mismatch, we propose a complete time-domain speaker extraction solution, that is called SpEx+. Specifically, we tie the weights of two identical speech encoder networks, one for the encoder-extractor-decoder pipeline, another as part of the speaker encoder. Experiments show that the SpEx+ achieves 0.8dB and 2.1dB SDR improvement over the state-of-the-art SpEx baseline, under different and same gender conditions on WSJ0-2mix-extr database respectively.
+abstract: Community detection is an important task in social network analysis. Existing methods typically use the topological information alone, and ignore the rich information available in the content data. Recently, some researchers have noticed that user profiles can also benefit to community detection, and hence the combination of topology and node contents has become a new hot topic. Some methods using both topology and content have been proposed. However, they often suffer from two drawbacks: 1) they cannot extract a potential deep representation of the network; 2) they cannot automatically weight different information sources with adequate balance parameters. To overcome these issues, we propose a deep integration representation (DIR) algorithm via deep joint reconstruction, which is motivated by the similarity between deep feedforward auto-encoders and spectral clustering in terms of matrix reconstruction. Thanks to spectral clustering which is one of the best community detection methods, the proposed new method is also good at community discovery task. In addition, DIR has further benefit because it not only provides a nonlinear and deep representation of the network, but also learns the most suitable balance between different components automatically. We compare the proposed new approach with nine state-of-the-art community detection methods on eight real relatively large networks. The experimental results show the definite superiority of this new approach.
 
 # Summary. An optional shortened abstract.
-summary: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches.
+summary:
 
 tags:
 - Time Domain, 
@@ -37,16 +37,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://ieeexplore.ieee.org/document/8371938'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
