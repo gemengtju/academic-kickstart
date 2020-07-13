@@ -1,5 +1,5 @@
 ---
-title: "SpEx+: A Complete Time Domain Speaker Extraction Network"
+title: "Pitch Synchronized Relative Phase with Peak Error Detection For Noise-robust Speaker Recognition"
 authors:
 - admin
 - Chenglin Xu

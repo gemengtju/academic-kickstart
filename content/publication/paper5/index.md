@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Distant-talking Speech Recognition Based on Multi-objective Learning using Phase and Magnitude-based Feature"
 authors:
 - admin
 - Robert Ford

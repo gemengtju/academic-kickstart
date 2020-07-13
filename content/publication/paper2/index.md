@@ -1,5 +1,5 @@
 ---
-title: "Environment-dependent Attention-driven Recurrent Convolutional Neural Network for Robust Speech Enhancement"
+title: "Spectrograms Fusion with Minimum Difference Masks Estimation for Monaural Speech Dereverberation"
 authors:
 - admin
 - Chenglin Xu
