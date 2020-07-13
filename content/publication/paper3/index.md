@@ -2,16 +2,16 @@
 title: "Environment-dependent Attention-driven Recurrent Convolutional Neural Network for Robust Speech Enhancement"
 authors:
 - admin
-- Chenglin Xu
 - Longbiao Wang
-- Eng Siong Chng
+- Nan Li
+- Hao Shi
 - Jianwu Dang
-- Haizhou Li
-date: "2015-09-01T00:00:00Z"
+- Xiangang Li
+date: "2019-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-01T00:00:00Z"
+publishDate: "2019-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

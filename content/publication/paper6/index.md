@@ -2,16 +2,16 @@
 title: "Pitch Synchronized Relative Phase with Peak Error Detection For Noise-robust Speaker Recognition"
 authors:
 - admin
-- Chenglin Xu
 - Longbiao Wang
-- Eng Siong Chng
+- Seiichi Nakagawa
+- Yuta Kawakami
 - Jianwu Dang
-- Haizhou Li
-date: "2015-09-01T00:00:00Z"
+- Xiangang Li
+date: "2018-11-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-01T00:00:00Z"
+publishDate: "2018-11-26T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
