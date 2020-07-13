@@ -38,18 +38,6 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-alwaysShowLanguageChooser = true
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-
-# Configure the English version of the website.
-[Languages]
-[Languages.en]
-  title = "GE MENG"
-
-[Languages.zh-tw]
-  title = "葛檬"
 
 # Workaround Hugo publishing taxonomy URLs as plurals - consistently use singular across Academic.
 [permalinks]
