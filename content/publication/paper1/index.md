@@ -37,16 +37,16 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Custom Link
+  url: http://example.org
+url_pdf: 'https://arxiv.org/abs/2005.04686'
+url_code: 'https://github.com/gemengtju/SpEx_Plus'
+url_dataset: 'https://github.com/xuchenglin28/speaker_extraction'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
