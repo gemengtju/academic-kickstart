@@ -23,10 +23,10 @@ publication_types: ["1"]
 publication: "INTERSPEECH 2019"
 publication_short: ""
 
-abstract: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches. Unfortunately, SpEx is not fully a time-domain solution since it performs time-domain speech encoding for speaker extraction, while taking frequency-domain speaker embedding as the reference. The size of the analysis window for time-domain and the size for frequency-domain input are also different. Such mismatch has an adverse effect on the system performance. To eliminate such mismatch, we propose a complete time-domain speaker extraction solution, that is called SpEx+. Specifically, we tie the weights of two identical speech encoder networks, one for the encoder-extractor-decoder pipeline, another as part of the speaker encoder. Experiments show that the SpEx+ achieves 0.8dB and 2.1dB SDR improvement over the state-of-the-art SpEx baseline, under different and same gender conditions on WSJ0-2mix-extr database respectively.
+abstract: Speech enhancement aims to keep the real speech signal and reduce noise for building robust communication systems. Under the success of DNN, significant progress has been made. Nevertheless, accuracy of the speech enhancement system is not satisfactory due to insufficient consideration of varied environmental and contextual information in complex cases. To address these problems, this research proposes an end-to-end environment-dependent attention-driven approach. The local frequency-temporal pattern via convolutional neural network is fully employed without pooling operation. It then integrates an attention mechanism into bidirectional long short-term memory to acquire the weighted dynamic context between consecutive frames. Furthermore, dynamic environment estimation and phase correction further improve the generalization ability. Extensive experimental results on REVERB challenge demonstrated that the proposed approach outperformed existing methods, improving PESQ from 2.56 to 2.87 and SRMR from 4.95 to 5.50 compared with conventional DNN.
 
 # Summary. An optional shortened abstract.
-summary: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches.
+summary:
 
 tags:
 - Time Domain, 
@@ -37,16 +37,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1477.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

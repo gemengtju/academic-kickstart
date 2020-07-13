@@ -22,10 +22,10 @@ publication_types: ["1"]
 publication: "ICASSP 2020"
 publication_short: ""
 
-abstract: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches. Unfortunately, SpEx is not fully a time-domain solution since it performs time-domain speech encoding for speaker extraction, while taking frequency-domain speaker embedding as the reference. The size of the analysis window for time-domain and the size for frequency-domain input are also different. Such mismatch has an adverse effect on the system performance. To eliminate such mismatch, we propose a complete time-domain speaker extraction solution, that is called SpEx+. Specifically, we tie the weights of two identical speech encoder networks, one for the encoder-extractor-decoder pipeline, another as part of the speaker encoder. Experiments show that the SpEx+ achieves 0.8dB and 2.1dB SDR improvement over the state-of-the-art SpEx baseline, under different and same gender conditions on WSJ0-2mix-extr database respectively.
+abstract: Spectrograms fusion is an effective method for incorporating complementary speech dereverberation systems. Previous linear spectrograms fusion by averaging multiple spectrograms shows outstanding performance. However, various systems with different features cannot apply this simple method. In this study, we design the minimum difference masks (MDMs) to classify the time-frequency (T-F) bins in spectrograms according to the nearest distances from labels. Then, we propose a two-stage nonlinear spectrograms fusion system for speech dereverberation. First, we conduct a multi-target learning-based speech dereverberation front-end model to get spectrograms simultaneously. Then, MDMs are estimated to take the best parts of different spectrograms. We are using spectrograms in the first stage and MDMs in the second stage to recombine T-F bins. The experiments on the REVERB challenge show that a strong feature complementarity between spectrograms and MDMs. Moreover, the proposed framework can consistently and significantly improve PESQ and SRMR, both real and simulated data, e.g., an average PESQ gain of 0.1 in all simulated data and an average SRMR gain of 1.22 in all real data.
 
 # Summary. An optional shortened abstract.
-summary: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches.
+summary: 
 
 tags:
 - Time Domain, 
@@ -36,16 +36,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9054661'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

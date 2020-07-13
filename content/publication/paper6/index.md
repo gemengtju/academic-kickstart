@@ -23,10 +23,10 @@ publication_types: ["1"]
 publication: "ISCSLP 2018"
 publication_short: ""
 
-abstract: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches. Unfortunately, SpEx is not fully a time-domain solution since it performs time-domain speech encoding for speaker extraction, while taking frequency-domain speaker embedding as the reference. The size of the analysis window for time-domain and the size for frequency-domain input are also different. Such mismatch has an adverse effect on the system performance. To eliminate such mismatch, we propose a complete time-domain speaker extraction solution, that is called SpEx+. Specifically, we tie the weights of two identical speech encoder networks, one for the encoder-extractor-decoder pipeline, another as part of the speaker encoder. Experiments show that the SpEx+ achieves 0.8dB and 2.1dB SDR improvement over the state-of-the-art SpEx baseline, under different and same gender conditions on WSJ0-2mix-extr database respectively.
+abstract: In conventional speaker identification methods based on mel frequency cepstral coefficients (MFCCs), phase information is ignored. Recent studies have shown that phase information contains speaker dependent characteristics, and it is effective for speaker recognition. In this paper, we propose a pitch synchronized relative phase information for speaker identification in noisy environments. To mitigate the affect of noise on pseudo pitch synchronized relative phase information extraction, a peak error detection using an autocorrelation based algorithm was proposed. Experiments were conducted using the JNAS (Japanese Newspaper Article Sentence) database. The pitch synchronized relative phase information with peak error detection based method achieved a relative speaker identification error reduction rate of 23.9% compared to the conventional phase information (that is pitch non-synchronized relative phase). By combining the proposed method with MFCC, the speaker identification rate was improved from 55.0% (MFCC) to 76.9%.
 
 # Summary. An optional shortened abstract.
-summary: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches.
+summary:
 
 tags:
 - Time Domain, 
@@ -37,16 +37,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8706701'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

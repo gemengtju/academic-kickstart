@@ -23,10 +23,10 @@ publication_types: ["1"]
 publication: "ISCSLP 2018"
 publication_short: ""
 
-abstract: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches. Unfortunately, SpEx is not fully a time-domain solution since it performs time-domain speech encoding for speaker extraction, while taking frequency-domain speaker embedding as the reference. The size of the analysis window for time-domain and the size for frequency-domain input are also different. Such mismatch has an adverse effect on the system performance. To eliminate such mismatch, we propose a complete time-domain speaker extraction solution, that is called SpEx+. Specifically, we tie the weights of two identical speech encoder networks, one for the encoder-extractor-decoder pipeline, another as part of the speaker encoder. Experiments show that the SpEx+ achieves 0.8dB and 2.1dB SDR improvement over the state-of-the-art SpEx baseline, under different and same gender conditions on WSJ0-2mix-extr database respectively.
+abstract: Network embedding is to learn a low-dimensional representation for a network in order to capture intrinsic features of the network. It has been applied to many applications, e.g., network community detection and user recommendation. One of the recent research topics for network embedding has been focusing on exploitation of diverse information, including network topology and semantic information on nodes of networks. However, such diverse information has not been fully utilized nor adequately integrated in the existing methods, so that the resulting network embedding is far from satisfactory. In this paper, we develop a weight-free multi-component network embedding approach by network reconstruction via a deep Autoencoder. Three key components make our new approach effective, i.e., a uniformed graph representation of network topology and semantic information, enhancement to the graph representation using local network structure (i.e., pairwise relationship on nodes) by sampling with latent space regularization, and integration of the diverse information in graph forms in a deep Autoencoder. Extensive experimental results on seven real-world networks demonstrate a superior performance of our method over nine state-of-the-art methods for embedding.
 
 # Summary. An optional shortened abstract.
-summary: Speaker extraction aims to extract the target speech signal from a multi-talker environment given a target speaker's reference speech. We recently proposed a time-domain solution, SpEx, that avoids the phase estimation in frequency-domain approaches.
+summary:
 
 tags:
 - Time Domain, 
@@ -37,16 +37,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://www.ijcai.org/proceedings/2018/0473.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

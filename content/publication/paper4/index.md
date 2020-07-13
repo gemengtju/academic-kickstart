@@ -21,26 +21,17 @@ publication_types: ["3"]
 publication: "ICONIP 2019"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Speech dereverberation based on deep learning has recently gained a remarkable success with the substantial improvement of speech recognition for the accuracy in the distant speech recognition task. However, environmental mismatches due to noise and reverberation may result in performance degradation when the features (e.g. MFCCs) are simply fed into a speech recognition system without feature enhancement. To address the problem, we propose a new speech dereverberation approach based on the deep convolution and self-attention mechanisms to enhance the MFCC-based feature in distant signals. The deep convolutional component used in this approach can efficiently exploit the frequency-temporal context patterns, and the multi-head self-attention mechanism can obtain the complete time-domain cues to enhance the temporal context. Meanwhile, the bottleneck features trained on a clean corpus are utilized as teacher signals, because they contain relevant cues to phoneme classification and the mapping is performed with the objective of suppressing noise and reverberation. Extensive experimental results on the REVERB challenge corpus demonstrate that our proposed approach outperforms all the competitors, reducing about 17% relative word error rate (WER) compared with the deep neural network (DNN) baseline method.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-36718-3_25'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

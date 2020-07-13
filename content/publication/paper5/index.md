@@ -22,26 +22,17 @@ publication_types: ["1"]
 publication: "ISCSLP 2018"
 publication_short: "" 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Deep neural network for speech enhancement is an increasingly interesting topic. In this paper, we propose a multi-objective learning method to using the amplitude and phase information for reverberant speech recognition. In previous studies, some researches found that phase information is important for human speech recognition, but phase information is ignored for almost front-end of speech recognition. To address this problem, this paper proposes using a multi-objective neural network method to optimize speech enhancement and feature enhancement simultaneously. For phase information, Modied Group Delay Cepstral Coefcients (MGDCC) and Phase Domain Source-Filter separation based Vocal Tract (PBSFVT) are used. In this paper, we use the data set of Reverb Challenge 2014 to evaluate proposed method on distant-talking speech recognition. TheWord Error Rate (WER) of speech recognition was reduced from 26.57% of traditional deep neural work based dereverberation using magnitude feature, to 23.34% of the proposed method and the relative error reduction rate is 12.15%.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: 'https://ieeexplore.ieee.org/document/8706645'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
