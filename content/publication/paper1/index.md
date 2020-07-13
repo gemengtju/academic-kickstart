@@ -37,7 +37,7 @@ tags:
 featured: true
 
 links:
-url_pdf: 'https://arxiv.org/abs/2005.04686'
+url_pdf: 'hhttps://arxiv.org/pdf/2005.04686.pdf'
 url_code: 'https://github.com/gemengtju/SpEx_Plus'
 url_dataset: 'https://github.com/xuchenglin28/speaker_extraction'
 #url_poster: '#'
