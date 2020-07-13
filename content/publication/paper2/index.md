@@ -3,7 +3,7 @@ title: "Spectrograms Fusion with Minimum Difference Masks Estimation for Monaura
 authors:
 - Hao Shi
 - Longbiao Wang
-- Meng Ge
+- admin
 - Sheng Li
 - Jianwu Dang
 date: "2020-04-01T00:00:00Z"
