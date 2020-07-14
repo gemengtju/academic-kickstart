@@ -21,7 +21,7 @@ publishDate: "2017-07-26T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ISCSLP 2018"
+publication: "PLoS ONE"
 publication_short: ""
 
 abstract: Due to the demand for performance improvement and the existence of prior information, semi-supervised community detection with pairwise constraints becomes a hot topic. Most existing methods have been successfully encoding the must-link constraints, but neglect the opposite ones, i.e., the cannot-link constraints, which can force the exclusion between nodes. In this paper, we are interested in understanding the role of cannot-link constraints and effectively encoding pairwise constraints. Towards these goals, we define an integral generative process jointly considering the network topology, must-link and cannot-link constraints. We propose to characterize this process as a Multi-variance Mixed Gaussian Gen- erative (MMGG) Model to address diverse degrees of confidences that exist in network topology and pairwise constraints and formulate it as a weighted nonnegative matrix factorization problem. The experiments on artificial and real-world networks not only illustrate the superiority of our proposed MMGG, but also, most importantly, reveal the roles of pairwise constraints. That is, though the must-link is more important than cannot-link when either of them is available, both must-link and cannot-link are equally important when both of them are available. To the best of our knowledge, this is the first work on discovering and exploring the importance of cannot-link constraints in semi-supervised community detection.
