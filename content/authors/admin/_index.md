@@ -32,16 +32,16 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Tianjin University
-    year: 2017 - Present
+    year: 
   - course: MEng in Software Engineering
     institution: Tianjin University
-    year: 2015 - 2017
+    year: 2017
   - course: BMgt in Public Management (2nd degree)
     institution: Tianjin Polytechnic University
-    year: 2011 - 2015
+    year: 2015
   - course: BEng in Software Engineering
     institution: Tianjin Polytechnic University
-    year: 2011 - 2015
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
