@@ -27,6 +27,7 @@ interests:
 - Speech Recognition
 - Complex Network
 - Network Embedding
+- Deep Learning
 
 education:
   courses:
