@@ -36,7 +36,7 @@ education:
   - course: MEng in Software Engineering
     institution: Tianjin University
     year: 2017
-  - course: BMgt in Public Management (2nd degree)
+  - course: BMgt in Public Management
     institution: Tianjin Polytechnic University
     year: 2015
   - course: BEng in Software Engineering
