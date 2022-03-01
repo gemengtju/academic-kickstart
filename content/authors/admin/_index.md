@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include speech enhancement, speech separation and speech recognition.
 
 interests:
-- Speech Processing11
+- Speech Processing
 - Speech Enhancement
 - Speech Separation
 - Speech Recognition
